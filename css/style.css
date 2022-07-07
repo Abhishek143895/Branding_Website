@@ -86,7 +86,7 @@ p{
     background-color: white;
     padding: 0 2rem;
     height: 0rem;
-    min-height: 10vh;
+    min-height: 9vh;
     overflow: hidden;
     transition: height 1s ease-in-out;
     color: black;
@@ -119,7 +119,7 @@ p{
 .nav .toggle-collapse .toggle-icons{
     display: flex;
     justify-content: flex-end;
-    padding: 1.7rem 0;
+    padding: 0.7rem 0;
 }
 
 .nav .toggle-collapse .toggle-icons i {
