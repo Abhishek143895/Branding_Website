@@ -86,7 +86,7 @@ p{
     background-color: white;
     padding: 0 2rem;
     height: 0rem;
-    min-height: 9vh;
+    min-height: 10vh;
     overflow: hidden;
     transition: height 1s ease-in-out;
     color: black;
@@ -102,6 +102,7 @@ p{
     display: block;
     font-size: 2rem;
     font-weight: bold;
+    margin-top: 10px;
 }
 
 .nav .nav-brand a:hover{
@@ -119,7 +120,7 @@ p{
 .nav .toggle-collapse .toggle-icons{
     display: flex;
     justify-content: flex-end;
-    padding: 0.7rem 0;
+    padding: 22px 0;
 }
 
 .nav .toggle-collapse .toggle-icons i {
